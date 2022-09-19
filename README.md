@@ -1,3 +1,3 @@
 # front-end-dev
 
-i love :coffee: and :code:.
+i love :coffee: and :computer:.
